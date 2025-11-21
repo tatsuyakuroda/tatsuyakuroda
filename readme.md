@@ -14,7 +14,7 @@
   <img src="me.jpg" alt="Tatsuya Kuroda" width="200" />
   
   <p style="font-size: 18px; margin: 20px 0;">
-    <i>"Every great system starts with a simple idea — I just help bring that idea to life with logic, clarity, and a bit of engineering magic."</i>
+    <i>"Every great system starts with a simple idea — I just help bring that <br/> idea to life with logic, clarity, and a bit of engineering magic."</i>
   </p>
   
   <div>
