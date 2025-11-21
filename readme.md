@@ -1,5 +1,7 @@
-# AI-Focused Full Stack Engineer
 
+<div align="center"> 
+  <p style="font-size: 36px"> AI-Focused Full Stack Engineer </p>
+</div>
 
 ---
 <br>
