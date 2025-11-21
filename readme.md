@@ -38,7 +38,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 
 
 <table>
 <tr>
